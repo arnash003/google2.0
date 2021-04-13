@@ -83,3 +83,5 @@ export default function Home() {
 // The breakpoints are resembled by an sm for small, md for medium, lg for large,
 // xl and 2xl and 3xl etc. Without any breakpoint it is Mobile. (Tailwind CSS)
 // In the CSS you will notice that as you adjust the screen and move to that small breakpoint from mobile to web the buttons change their axis
+
+// 1 hour 47 minutes Break
